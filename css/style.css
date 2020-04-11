@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background: url(/images/11.png) no-repeat;
+  background: url(/bbbbb/images/11.png) no-repeat;
   text-align: center;
   padding: 20% 20% 0 20%;
 }
@@ -260,7 +260,7 @@ section {
 
 .why-us {
   margin: 0;
-  background: url(/images/Rectangle7.png) no-repeat;
+  background: url(/bbbbb/images/Rectangle7.png) no-repeat;
 }
 
 .section-footer {
@@ -283,7 +283,7 @@ section {
 }
 
 .country-first {
-  background: url(/images/Rectangle414.png) no-repeat;
+  background: url(/bbbbb/images/Rectangle414.png) no-repeat;
   size: 100%;
   margin: 0;
   padding-top: 11%;
@@ -295,7 +295,7 @@ section {
 }
 
 .country-second {
-  background: url(/images/Rectangle4141.png) no-repeat;
+  background: url(/bbbbb/images/Rectangle4141.png) no-repeat;
   margin: 0;
   padding-top: 11%;
 }
@@ -306,7 +306,7 @@ section {
 }
 
 .tourist-quote {
-  background: url(/images/Rectangle4142.png) no-repeat;
+  background: url(/bbbbb/images/Rectangle4142.png) no-repeat;
 }
 @media (max-width: 576px) {
   .tourist-quote {
